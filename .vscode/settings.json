@@ -5,5 +5,10 @@
         "xlabel",
         "xticks",
         "ylabel"
-    ]
+    ],
+    "github.copilot.enable": {
+        "scminput": true,
+        "markdown": true,
+        "plaintext": true
+    }
 }
