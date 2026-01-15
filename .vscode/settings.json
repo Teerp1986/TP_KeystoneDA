@@ -10,5 +10,6 @@
         "scminput": true,
         "markdown": true,
         "plaintext": true
-    }
+    },
+    "python.analysis.autoImportCompletions": true
 }
