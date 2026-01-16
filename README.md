@@ -39,7 +39,7 @@ A pie chart comparing total video game revenue between:
 - Europe
 This visualization clearly shows which region contributes the most to global gaming sales.
 
-📁 What This Project Demonstrates
+What This Project Demonstrates
 - Strong data analysis using Python and pandas
 - Ethical and clear data visualization practices
 - Use of multiple chart types to communicate insights
