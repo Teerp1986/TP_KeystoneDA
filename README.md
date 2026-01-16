@@ -3,7 +3,8 @@
 
 Evolution of the Gaming Industry in Video Game Sales
 
-Project Overview
+OVERVIEW:
+
 This project explores the evolution of the global gaming industry through the lens of video game sales data. The goal is to understand how revenue has shifted over time and how different regions, publishers, genres, and platforms have contributed to the industry’s financial growth.
 Video games have generated tremendous wealth across the world, and despite fluctuations in performance, major publishers have continued to thrive as competition and technology have advanced. This dataset and analysis highlight those trends and provide visual insights into the factors driving gaming revenue.
 
