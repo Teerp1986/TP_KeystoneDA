@@ -1,3 +1,6 @@
+
+<img width="696" height="384" alt="Gaming Revinue Pic" src="https://github.com/user-attachments/assets/aaf6f918-723e-43b9-93a7-fa4b37942633" />
+
 Evolution of the Gaming Industry in Video Game Sales
 
 Project Overview
